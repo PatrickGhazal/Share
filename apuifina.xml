@@ -1,0 +1,2593 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<?xml-stylesheet type="text/xml" href="\apuisoft\StyleSheets\ini.xsl"?>
+<?xml-stylesheet type="text/xsl" href="\apuisoft\StyleSheets\ini.xsl"?>
+<ADDOC Product="IIM" Version="3.2.2(Build 14.5.2) - 10 Jan. 2022" Host="DESKTOP-6SOGLSR" User="XSTGEORGES">
+	<!--Creation date: 16/02/2022 09:58:26-->
+	<Parameters Name="apuifina.xml" FileType="ini" FormatVersion="1.1">
+		<Section Name="backup">
+			<Key Name="apuiback drive">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="backup dir">
+				<Value Type="String">apuiback</Value>
+			</Key>
+			<Key Name="backup use old style">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="change backuped drive">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="data format params converted">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="backup verif">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="backup reset">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="connector">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="backup keep lot">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="backup use cuts">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="backup print">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="backup destroy">
+				<Value Type="Boolean">no</Value>
+			</Key>
+		</Section>
+		<Section Name="zone 1">
+			<Key Name="detect check box">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="equal columns">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="filtering dot size">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="do auto denoise">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="save corrected image">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone is on dossier form">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="binarization type">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="binarization threshold">
+				<Value Type="Integer">140</Value>
+			</Key>
+			<Key Name="abstract check box found">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="zone for docsort">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Zone dossier zone index">
+				<Value Type="Integer">-1</Value>
+			</Key>
+			<Key Name="Zone deskew method">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="dynamic table">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="equal lines">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Adjust rect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone use full space">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="number of lines">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="number of columns">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="Zone remove lines and cols height">
+				<Value Type="Integer">50</Value>
+			</Key>
+			<Key Name="Zone remove lines and cols dilatation">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="Zone remove lines and cols">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone left">
+				<Value Type="Integer">735</Value>
+			</Key>
+			<Key Name="zone dynamic table by keyword">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="zone hidden">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone right">
+				<Value Type="Integer">1366</Value>
+			</Key>
+			<Key Name="detect lig and col">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone dynamic table col obligated list">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="Zone dossier zone var name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="zone origin index">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="zone is section start">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone masked">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="specify col">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Zone remove lines and cols width">
+				<Value Type="Integer">80</Value>
+			</Key>
+			<Key Name="zone dynamic table all col obligated">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="zone for seg matching">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone dynamic table by table detection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="use abstract check box">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="background">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Checkbox detection empty lines allowed">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone bottom">
+				<Value Type="Integer">-1290</Value>
+			</Key>
+			<Key Name="zone top">
+				<Value Type="Integer">-1838</Value>
+			</Key>
+		</Section>
+		<Section Name="zone 0">
+			<Key Name="detect check box">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="equal columns">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="filtering dot size">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="do auto denoise">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="save corrected image">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone is on dossier form">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="binarization type">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="binarization threshold">
+				<Value Type="Integer">140</Value>
+			</Key>
+			<Key Name="abstract check box found">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="zone for docsort">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Zone dossier zone index">
+				<Value Type="Integer">-1</Value>
+			</Key>
+			<Key Name="Zone deskew method">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="dynamic table">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="equal lines">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Adjust rect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone use full space">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="number of lines">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="number of columns">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="Zone remove lines and cols height">
+				<Value Type="Integer">50</Value>
+			</Key>
+			<Key Name="Zone remove lines and cols dilatation">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="Zone remove lines and cols">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone left">
+				<Value Type="Integer">1414</Value>
+			</Key>
+			<Key Name="zone dynamic table by keyword">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="zone hidden">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone right">
+				<Value Type="Integer">2001</Value>
+			</Key>
+			<Key Name="detect lig and col">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone dynamic table col obligated list">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="Zone dossier zone var name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="zone origin index">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="zone is section start">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone masked">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="specify col">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Zone remove lines and cols width">
+				<Value Type="Integer">80</Value>
+			</Key>
+			<Key Name="zone dynamic table all col obligated">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="zone for seg matching">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone dynamic table by table detection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="use abstract check box">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="background">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Checkbox detection empty lines allowed">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="zone bottom">
+				<Value Type="Integer">-22</Value>
+			</Key>
+			<Key Name="zone top">
+				<Value Type="Integer">-454</Value>
+			</Key>
+		</Section>
+		<Section Name="OCR EXT METHOD SECTION0">
+			<Key Name="OCR EXT METHOD NAME">
+				<Value Type="String">imdsv1</Value>
+			</Key>
+			<Key Name="OCR EXT ENGINE NAME">
+				<Value Type="String">OCRExtIMDSWSv1.dll</Value>
+			</Key>
+		</Section>
+		<Section Name="Regex profile 0">
+			<Key Name="amount separator">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="number of substitutions">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="name">
+				<Value Type="String">Default</Value>
+			</Key>
+			<Key Name="is amount">
+				<Value Type="Boolean">no</Value>
+			</Key>
+		</Section>
+		<Section Name="OCR">
+			<Key Name="threshold">
+				<Value Type="Integer">25</Value>
+			</Key>
+			<Key Name="inquiry char">
+				<Value Type="String">~</Value>
+			</Key>
+			<Key Name="Dual entry type">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="unknown char">
+				<Value Type="String">~</Value>
+			</Key>
+			<Key Name="reject doc">
+				<Value Type="Integer">100</Value>
+			</Key>
+			<Key Name="mark or move">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="min y">
+				<Value Type="Integer">5</Value>
+			</Key>
+			<Key Name="min x">
+				<Value Type="Integer">3</Value>
+			</Key>
+		</Section>
+		<Section Name="step 104">
+			<Key Name="operation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="step 105">
+			<Key Name="operation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="step 102">
+			<Key Name="operation">
+				<Value Type="Integer">38</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">3</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="form">
+			<Key Name="Image color rect right">
+				<Value Type="Integer">100</Value>
+			</Key>
+			<Key Name="origine X">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="origine Y">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="NLP tps rate">
+				<Value Type="Float">5.000000</Value>
+			</Key>
+			<Key Name="Typage Rule Image 2">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="Typage Rule Image 1">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="save positions">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="save column stats">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Typage Rule Image 0">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="Blank page cc size Y">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Blank page cc size X">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Origin reject mode">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Blank page val max">
+				<Value Type="Float">60.000000</Value>
+			</Key>
+			<Key Name="Blank page mode">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="NLP Keywords types persos">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="NLP tva rate">
+				<Value Type="Float">20.000000</Value>
+			</Key>
+			<Key Name="save xml">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="form dll package">
+				<Value Type="String">vicofina.pkg</Value>
+			</Key>
+			<Key Name="Typage Rule operation 2">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Typage Rule operation 1">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Typage Rule operation 0">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="save report stats">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="number of zones">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="type d'origine">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Typage Rule 2">
+				<Value Type="String">fise;SEPARATOR;SEPARATOR;</Value>
+			</Key>
+			<Key Name="Typage Rule case detect 0">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Typage Rule case detect 1">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Typage Rule case detect 2">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Typage Rule 0">
+				<Value Type="String">firb;TRANSMITTAL;RBCQSL;</Value>
+			</Key>
+			<Key Name="use default type">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Typage Rule 1">
+				<Value Type="String">fitr;TRANSMITTAL;??*;</Value>
+			</Key>
+			<Key Name="Image extract color">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="dictionnary name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="number of views">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="Image color rect left">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="form info path">
+				<Value Type="String">apuiinfo</Value>
+			</Key>
+			<Key Name="Image color rect top">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="dictionnary is read only">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Blank page val">
+				<Value Type="Float">40.000000</Value>
+			</Key>
+			<Key Name="Blank page type">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="dictionnary length">
+				<Value Type="Integer">20</Value>
+			</Key>
+			<Key Name="Do full page OCR">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="form use dll">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="full manual">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="use divider">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="form use text analyse dll">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Blank page action">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="Image binarize whole page">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Default type">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="form use application dll">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="first doc after divider">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="Blank page noise removal">
+				<Value Type="Integer">5</Value>
+			</Key>
+			<Key Name="Blank page margin right">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="form dll">
+				<Value Type="String">fina</Value>
+			</Key>
+			<Key Name="NLP tvq rate">
+				<Value Type="Float">9.975000</Value>
+			</Key>
+			<Key Name="Typage Rule count">
+				<Value Type="Integer">3</Value>
+			</Key>
+			<Key Name="reject full manual execute ocr">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="mark doc on reject">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="dictionnary force add">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Blank page margin left">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Blank page margin bottom">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="NLP types persos">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="reject full manual">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Detect blank pages">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="use built-in rules">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Image color rect bottom">
+				<Value Type="Integer">100</Value>
+			</Key>
+			<Key Name="Blank page margin top">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="need ODBC support">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Rule 0">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="Blank page use margins">
+				<Value Type="Boolean">no</Value>
+			</Key>
+		</Section>
+		<Section Name="step 103">
+			<Key Name="operation">
+				<Value Type="Integer">14</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">4</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="step 101">
+			<Key Name="operation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="zone 0 lines">
+			<Key Name="line 0 bottom">
+				<Value Type="Integer">-22</Value>
+			</Key>
+			<Key Name="line 0 top">
+				<Value Type="Integer">-454</Value>
+			</Key>
+		</Section>
+		<Section Name="zone 1 lines">
+			<Key Name="line 0 bottom">
+				<Value Type="Integer">-1290</Value>
+			</Key>
+			<Key Name="line 0 top">
+				<Value Type="Integer">-1838</Value>
+			</Key>
+		</Section>
+		<Section Name="Batch modelling">
+			<Key Name="nb views">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="TC color 5">
+				<Value Type="Float">65280.000000</Value>
+			</Key>
+			<Key Name="TC color 4">
+				<Value Type="Float">16744448.000000</Value>
+			</Key>
+			<Key Name="TC color 3">
+				<Value Type="Float">16777088.000000</Value>
+			</Key>
+			<Key Name="TC color 2">
+				<Value Type="Float">16711680.000000</Value>
+			</Key>
+			<Key Name="TC color 1">
+				<Value Type="Float">65280.000000</Value>
+			</Key>
+			<Key Name="TC color 0">
+				<Value Type="Float">255.000000</Value>
+			</Key>
+			<Key Name="Hide child types">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Allow save doc">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Batch thumbnails width">
+				<Value Type="Integer">300</Value>
+			</Key>
+			<Key Name="Auto revalidate marked">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Use color table">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="watermark image">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Batch thumbnails height">
+				<Value Type="Integer">400</Value>
+			</Key>
+			<Key Name="Color table count">
+				<Value Type="Integer">6</Value>
+			</Key>
+			<Key Name="List all types">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Shortcut doc ext 5">
+				<Value Type="String">firb</Value>
+			</Key>
+			<Key Name="Shortcut doc ext 4">
+				<Value Type="String">fisp</Value>
+			</Key>
+			<Key Name="Shortcut doc ext 3">
+				<Value Type="String">fisu</Value>
+			</Key>
+			<Key Name="Shortcut doc ext 2">
+				<Value Type="String">fise</Value>
+			</Key>
+			<Key Name="Shortcut doc ext 1">
+				<Value Type="String">fitr</Value>
+			</Key>
+			<Key Name="Shortcut doc ext 0">
+				<Value Type="String">fina</Value>
+			</Key>
+			<Key Name="TC doc ext 5">
+				<Value Type="String">firb</Value>
+			</Key>
+			<Key Name="TC doc ext 4">
+				<Value Type="String">fisp</Value>
+			</Key>
+			<Key Name="TC doc ext 3">
+				<Value Type="String">fisu</Value>
+			</Key>
+			<Key Name="TC doc ext 2">
+				<Value Type="String">fise</Value>
+			</Key>
+			<Key Name="TC doc ext 1">
+				<Value Type="String">fitr</Value>
+			</Key>
+			<Key Name="TC doc ext 0">
+				<Value Type="String">fina</Value>
+			</Key>
+			<Key Name="Shortcut type key 4">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Shortcut type key 5">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Shortcut type key 0">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Shortcut type key 1">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Shortcut type key 2">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Shortcut type key 3">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Show batch types">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Use shortcut table">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Select scanner and settings">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Confirm Moves">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Shortcut table count">
+				<Value Type="Integer">6</Value>
+			</Key>
+			<Key Name="Shortcut status key 0">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="Shortcut status key 4">
+				<Value Type="Integer">-1</Value>
+			</Key>
+			<Key Name="Shortcut status key 1">
+				<Value Type="Integer">1</Value>
+			</Key>
+		</Section>
+		<Section Name="videocodage">
+			<Key Name="CBox Label Font clip precision">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="CBox Label position">
+				<Value Type="Integer">3</Value>
+			</Key>
+			<Key Name="CBox Label Font follow zoom">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="CBox Label foreground color">
+				<Value Type="Integer">8388608</Value>
+			</Key>
+			<Key Name="CBox Label Font quality">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="CBox Label Font char set">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="CBox Label Font italic">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="CBox Label Font pitch">
+				<Value Type="Integer">34</Value>
+			</Key>
+			<Key Name="CBox Label Font height">
+				<Value Type="Integer">-13</Value>
+			</Key>
+			<Key Name="CBox Label Font weight">
+				<Value Type="Integer">700</Value>
+			</Key>
+			<Key Name="CBox Label Font width">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="CBox Label Font name">
+				<Value Type="String">System</Value>
+			</Key>
+			<Key Name="CBox Label position - distance to box">
+				<Value Type="Integer">12</Value>
+			</Key>
+			<Key Name="CBox Label Font escapement">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="CBox Label Font orientation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="CBox Label Font underline">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="CBox Label Font precision">
+				<Value Type="Integer">3</Value>
+			</Key>
+			<Key Name="CBox Label background color">
+				<Value Type="Integer">64754</Value>
+			</Key>
+			<Key Name="CBox Label Font strikeout">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="CBox Display labels">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+		</Section>
+		<Section Name="zone 0 columns">
+			<Key Name="column 0 checkbox reject empty">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 dual entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 alpha in reject">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 wordspotting included keyword">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 wordspotting excluded keyword">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 verif amount">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 ocr extern zone id">
+				<Value Type="Integer">-1</Value>
+			</Key>
+			<Key Name="column 0 threshold">
+				<Value Type="Integer">25</Value>
+			</Key>
+			<Key Name="column 0 Barcode Threshold mode">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 Barcode quiet zone">
+				<Value Type="Integer">3</Value>
+			</Key>
+			<Key Name="column 0 punctuation detect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 handwritten">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 right">
+				<Value Type="Integer">2001</Value>
+			</Key>
+			<Key Name="column 0 sign">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 checkbox multichoice">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode orientation">
+				<Value Type="Integer">15</Value>
+			</Key>
+			<Key Name="column 0 Barcode despeckle">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 save car plate">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 ocr extern zone name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 border comb min black vert">
+				<Value Type="Integer">40</Value>
+			</Key>
+			<Key Name="column 0 use amount">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 limit input">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 ocr extern directory reference image">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 Barcode reco time out">
+				<Value Type="Integer">5000</Value>
+			</Key>
+			<Key Name="column 0 keep space">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 equal space">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 border comb min black horiz">
+				<Value Type="Integer">50</Value>
+			</Key>
+			<Key Name="column 0 ocr extern special treatment">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 normalize numeric">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 print/hand detect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 car dy min">
+				<Value Type="Integer">4</Value>
+			</Key>
+			<Key Name="column 0 do verif">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 do reject">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 empty string">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode method name ext">
+				<Value Type="String">Un seul code-barres</Value>
+			</Key>
+			<Key Name="column 0 Coherency yell">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Origin index">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 repare reject">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="column 0 save stats record">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="column 0 On dossier form">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Barcode mode">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 checkbox rotate view">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 cursive config name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 block horiz">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Save barcode ext">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 car plate method name">
+				<Value Type="String">unknown</Value>
+			</Key>
+			<Key Name="column 0 Barcode count">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 Barcode ext">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="column 0 vertical regroupment">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 do internal coherency">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 save selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode method ext">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Apply on col num">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Barcode sharp">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Tolerance">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Barcode dilate">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 OCR">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="column 0 Barcode IIM">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Amount word length max">
+				<Value Type="Integer">424</Value>
+			</Key>
+			<Key Name="column 0 ocr extern by zlc">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 alphanum">
+				<Value Type="String">a</Value>
+			</Key>
+			<Key Name="column 0 first pass read network">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 car plate method">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Barcode inter2of5 checksum">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 window id">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 number of regex">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 number of chars">
+				<Value Type="Integer">5</Value>
+			</Key>
+			<Key Name="column 0 car dx min">
+				<Value Type="Integer">3</Value>
+			</Key>
+			<Key Name="column 0 Apply on">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 max strict chars">
+				<Value Type="Integer">5</Value>
+			</Key>
+			<Key Name="column 0 default value">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 has comma">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode invert">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Column dossier col var name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 Use description or micr file">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Amount word size x min">
+				<Value Type="Integer">17</Value>
+			</Key>
+			<Key Name="column 0 Amount word size y min">
+				<Value Type="Integer">17</Value>
+			</Key>
+			<Key Name="column 0 rejeter les ratures">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 empty string on too much unknowns">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 rotate">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 var">
+				<Value Type="String">TRANSMITTAL</Value>
+			</Key>
+			<Key Name="column 0 country">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 save multi hyp">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 wordspotting source">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 seg group">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="column 0 car plate">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 wordspotting label">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 profile">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 Tag name ID">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Barcode magic">
+				<Value Type="String">DTKH2Y3P6</Value>
+			</Key>
+			<Key Name="column 0 upper/lower case detect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 verif amount var">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 first pass read">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode code93 checksum">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode code39 checksum">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode code11 checksum">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 alphanum spec">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 ocr extern method">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 border comb min white vert">
+				<Value Type="Integer">4</Value>
+			</Key>
+			<Key Name="column 0 format">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 left">
+				<Value Type="Integer">1414</Value>
+			</Key>
+			<Key Name="column 0 special treatment">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 border">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 border comb max white horiz">
+				<Value Type="Integer">7</Value>
+			</Key>
+			<Key Name="column 0 comment">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 car dx norm">
+				<Value Type="Integer">25</Value>
+			</Key>
+			<Key Name="column 0 car dy norm">
+				<Value Type="Integer">40</Value>
+			</Key>
+			<Key Name="column 0 Amount word separation max">
+				<Value Type="Integer">85</Value>
+			</Key>
+			<Key Name="column 0 ocr extern directory data">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 Barcode erode">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode types enabled">
+				<Value Type="Long">4251648</Value>
+			</Key>
+			<Key Name="column 0 comma">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 force to upper">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 free segreco">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 skeleton segreco">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Column dossier type ext">
+				<Value Type="String"></Value>
+			</Key>
+		</Section>
+		<Section Name="zone 1 columns">
+			<Key Name="column 0 checkbox reject empty">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 dual entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 alpha in reject">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 wordspotting included keyword">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 wordspotting excluded keyword">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 verif amount">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 ocr extern zone id">
+				<Value Type="Integer">-1</Value>
+			</Key>
+			<Key Name="column 0 threshold">
+				<Value Type="Integer">128</Value>
+			</Key>
+			<Key Name="column 0 punctuation detect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 handwritten">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 right">
+				<Value Type="Integer">1366</Value>
+			</Key>
+			<Key Name="column 0 sign">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 checkbox multichoice">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 save car plate">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 ocr extern zone name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 border comb min black vert">
+				<Value Type="Integer">40</Value>
+			</Key>
+			<Key Name="column 0 use amount">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 limit input">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 ocr extern directory reference image">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 keep space">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 equal space">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 border comb min black horiz">
+				<Value Type="Integer">50</Value>
+			</Key>
+			<Key Name="column 0 ocr extern special treatment">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 normalize numeric">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 print/hand detect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 car dy min">
+				<Value Type="Integer">4</Value>
+			</Key>
+			<Key Name="column 0 do verif">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 do reject">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 empty string">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode method name ext">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 Coherency yell">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Origin index">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 repare reject">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="column 0 save stats record">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 On dossier form">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Barcode mode">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 checkbox rotate view">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 cursive config name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 block horiz">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Save barcode ext">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 car plate method name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 Barcode ext">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="column 0 vertical regroupment">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 do internal coherency">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 save selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Barcode method ext">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Apply on col num">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Tolerance">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 OCR">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="column 0 Barcode IIM">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Amount word length max">
+				<Value Type="Integer">424</Value>
+			</Key>
+			<Key Name="column 0 ocr extern by zlc">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 alphanum">
+				<Value Type="String">a</Value>
+			</Key>
+			<Key Name="column 0 first pass read network">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="column 0 car plate method">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 window id">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 number of regex">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 number of chars">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 car dx min">
+				<Value Type="Integer">3</Value>
+			</Key>
+			<Key Name="column 0 Apply on">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 max strict chars">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 default value">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 has comma">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Column dossier col var name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 Use description or micr file">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Amount word size x min">
+				<Value Type="Integer">17</Value>
+			</Key>
+			<Key Name="column 0 Amount word size y min">
+				<Value Type="Integer">17</Value>
+			</Key>
+			<Key Name="column 0 rejeter les ratures">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 empty string on too much unknowns">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 rotate">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 var">
+				<Value Type="String">SEPARATOR</Value>
+			</Key>
+			<Key Name="column 0 country">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="column 0 save multi hyp">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 wordspotting source">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 seg group">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="column 0 car plate">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 wordspotting label">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 profile">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 Tag name ID">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 Barcode magic">
+				<Value Type="String">DTKH2Y3P6</Value>
+			</Key>
+			<Key Name="column 0 upper/lower case detect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 verif amount var">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 first pass read">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 alphanum spec">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 ocr extern method">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 border comb min white vert">
+				<Value Type="Integer">4</Value>
+			</Key>
+			<Key Name="column 0 format">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 left">
+				<Value Type="Integer">735</Value>
+			</Key>
+			<Key Name="column 0 special treatment">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 border">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 border comb max white horiz">
+				<Value Type="Integer">7</Value>
+			</Key>
+			<Key Name="column 0 comment">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 car dx norm">
+				<Value Type="Integer">25</Value>
+			</Key>
+			<Key Name="column 0 car dy norm">
+				<Value Type="Integer">40</Value>
+			</Key>
+			<Key Name="column 0 Amount word separation max">
+				<Value Type="Integer">85</Value>
+			</Key>
+			<Key Name="column 0 ocr extern directory data">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="column 0 Barcode types enabled">
+				<Value Type="Long">4251648</Value>
+			</Key>
+			<Key Name="column 0 comma">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="column 0 force to upper">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 free segreco">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 skeleton segreco">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="column 0 Column dossier type ext">
+				<Value Type="String"></Value>
+			</Key>
+		</Section>
+		<Section Name="geometry Threshold">
+			<Key Name="Work image size_cx">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Work image size_cy">
+				<Value Type="Integer">57</Value>
+			</Key>
+			<Key Name="JPEG Quality">
+				<Value Type="Integer">100</Value>
+			</Key>
+			<Key Name="define a working colorspace">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Create workspace image">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="workspace ICC profile name">
+				<Value Type="String">AdobeRGB1998.icc</Value>
+			</Key>
+			<Key Name="Binarization Threshold">
+				<Value Type="Integer">140</Value>
+			</Key>
+			<Key Name="Binarization Type">
+				<Value Type="Integer">1</Value>
+			</Key>
+		</Section>
+		<Section Name="step 6">
+			<Key Name="operation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">7</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="step 5">
+			<Key Name="operation">
+				<Value Type="Integer">16</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String">Output files generation</Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">6</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="step 4">
+			<Key Name="operation">
+				<Value Type="Integer">9</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String">Unicity check</Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">5</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="step 3">
+			<Key Name="operation">
+				<Value Type="Integer">5</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">103</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">4</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="step 2">
+			<Key Name="operation">
+				<Value Type="Integer">20</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">102</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">3</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="step 1">
+			<Key Name="operation">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="var info">
+				<Value Type="String">Scanning</Value>
+			</Key>
+			<Key Name="keys per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="used elem">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second entry">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="productivity data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="operation variation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="step on error">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="uses productivity">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="next step">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="productivity target">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keys data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses items per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="item data used">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="uses keys per hour">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="step batch selection">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="step is deviation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="items per hour target">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="Dossier Structure">
+			<Key Name="new version written">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Header List">
+				<Value Type="String">fitr ;fise ;fisp ;firb ;</Value>
+			</Key>
+		</Section>
+		<Section Name="rejects">
+			<Key Name="ctrlm">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="ctrl-f9">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="do each page">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="center on mouse click">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="black out zlc">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="standard pres">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Repetition limit">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="disable click on view 0">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="reset positions">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="f12">
+				<Value Type="Boolean">no</Value>
+			</Key>
+		</Section>
+		<Section Name="Origin definition">
+			<Key Name="Origin number">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="odbc">
+			<Key Name="uid">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="pwd">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="dsn">
+				<Value Type="String"></Value>
+			</Key>
+		</Section>
+		<Section Name="simulation">
+			<Key Name="Get all pages">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Modify batch info">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Convert source extension">
+				<Value Type="String">tif</Value>
+			</Key>
+			<Key Name="file name format">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="Delete source">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Associated file filter">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="Create thumbnails">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="One for one">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Convert cli count">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="keep file after">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Force BPP">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="PDF to IMG resolution">
+				<Value Type="Integer">300</Value>
+			</Key>
+			<Key Name="Convert image">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Type first of file">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="File structure">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="directory">
+				<Value Type="String">apuisimu\simu_fina;</Value>
+			</Key>
+			<Key Name="Rotation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="allow gap in formated file name sequence">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Simulate from camera">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="lock file name">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="Type first of batch">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Simulate filter">
+				<Value Type="String">*.*;</Value>
+			</Key>
+			<Key Name="Target line">
+				<Value Type="Integer">-1</Value>
+			</Key>
+			<Key Name="Second type">
+				<Value Type="String">0000</Value>
+			</Key>
+			<Key Name="Delete dirs">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="mirror vertical">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Associated extension">
+				<Value Type="String">dat</Value>
+			</Key>
+			<Key Name="sub directory">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Rotation string">
+				<Value Type="String">0°</Value>
+			</Key>
+			<Key Name="log to file">
+				<Value Type="Boolean">no</Value>
+			</Key>
+		</Section>
+		<Section Name="geometry">
+			<Key Name="pages number">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="used for typing">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="rotation payement">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="double side">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="amount variable">
+				<Value Type="String">NOT SET</Value>
+			</Key>
+			<Key Name="check type">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Scan mode">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="scan duplex">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="cheque page number">
+				<Value Type="Integer">-1</Value>
+			</Key>
+			<Key Name="amount in cents">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="rotation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="bottom left">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="payement">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="book">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="rotation verso">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="CMC7 line">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="OCRB line">
+				<Value Type="Boolean">no</Value>
+			</Key>
+		</Section>
+		<Section Name="OCR EXT GENERAL SECTION">
+			<Key Name="OCR EXT METHOD NUMBER">
+				<Value Type="Integer">1</Value>
+			</Key>
+		</Section>
+		<Section Name="Origin 1">
+			<Key Name="Origin hright">
+				<Value Type="Integer">654</Value>
+			</Key>
+			<Key Name="Origin vright">
+				<Value Type="Integer">475</Value>
+			</Key>
+			<Key Name="Origin Y">
+				<Value Type="Integer">-584</Value>
+			</Key>
+			<Key Name="Origin X">
+				<Value Type="Integer">194</Value>
+			</Key>
+			<Key Name="Origin reject mode ocr">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Origin name">
+				<Value Type="String">Intersection</Value>
+			</Key>
+			<Key Name="Origin hdetect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Origin vdetect">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Origin hleft">
+				<Value Type="Integer">351</Value>
+			</Key>
+			<Key Name="Origin vleft">
+				<Value Type="Integer">27</Value>
+			</Key>
+			<Key Name="Origin htop">
+				<Value Type="Integer">-827</Value>
+			</Key>
+			<Key Name="Origin vtop">
+				<Value Type="Integer">-998</Value>
+			</Key>
+			<Key Name="Origin hbottom">
+				<Value Type="Integer">-352</Value>
+			</Key>
+			<Key Name="Origin vbottom">
+				<Value Type="Integer">-772</Value>
+			</Key>
+			<Key Name="Origin hthreshold">
+				<Value Type="Integer">80</Value>
+			</Key>
+			<Key Name="Origin vthreshold">
+				<Value Type="Integer">80</Value>
+			</Key>
+			<Key Name="Origin type">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="Origin hline increase">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Origin vline increase">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Origin hinvert">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Origin vinvert">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Origin hslope compensation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Origin vslope compensation">
+				<Value Type="Boolean">no</Value>
+			</Key>
+		</Section>
+		<Section Name="digitize">
+			<Key Name="bar code">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="quality control">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="store header">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="WM Font Font strikeout">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Add metadata">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="dont keep thumbnails">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="watermark content">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="watermark color">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Imprinter synchro">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Settings selection">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="WM Font Font italic">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Watermark on page">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="WM Font Font clip precision">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="WM Font Font escapement">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="batch">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="second type">
+				<Value Type="String">____</Value>
+			</Key>
+			<Key Name="Imprinter force full speed">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="set default setting">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Imprinter num asso">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="patch level">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Use imprinter">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="dialog">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="dialog size">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="watermark image">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="WM Font Font precision">
+				<Value Type="Integer">3</Value>
+			</Key>
+			<Key Name="Display report">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="multi">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="control increment">
+				<Value Type="Integer">10</Value>
+			</Key>
+			<Key Name="WM Font Font quality">
+				<Value Type="Integer">1</Value>
+			</Key>
+			<Key Name="WM Font Font char set">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Use scanner caps">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="watermark orientation">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="multi type">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="use thumbnail view">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="Reject batch">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="resume batch from start">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="WM Font Font width">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="modify configuration scan">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="WM Font Font orientation">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="pause batch">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="set default scanner">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="WM Font Font pitch">
+				<Value Type="Integer">34</Value>
+			</Key>
+			<Key Name="WM Font Font underline">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="Imprinter string">
+				<Value Type="String"></Value>
+			</Key>
+			<Key Name="WM Font Font name">
+				<Value Type="String">System</Value>
+			</Key>
+			<Key Name="Position ratio Y">
+				<Value Type="Float">1.000000</Value>
+			</Key>
+			<Key Name="Position ratio X">
+				<Value Type="Float">1.000000</Value>
+			</Key>
+			<Key Name="Delete batch">
+				<Value Type="Boolean">yes</Value>
+			</Key>
+			<Key Name="change scanner">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Mark doc">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="WM Font Font weight">
+				<Value Type="Integer">700</Value>
+			</Key>
+			<Key Name="WM Font Font height">
+				<Value Type="Integer">-13</Value>
+			</Key>
+		</Section>
+		<Section Name="geometry recto">
+			<Key Name="window width">
+				<Value Type="Integer">2159</Value>
+			</Key>
+			<Key Name="window height">
+				<Value Type="Integer">2794</Value>
+			</Key>
+			<Key Name="offset x">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="offset y">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="geometry verso">
+			<Key Name="window width">
+				<Value Type="Integer">2159</Value>
+			</Key>
+			<Key Name="window height">
+				<Value Type="Integer">2794</Value>
+			</Key>
+			<Key Name="offset x">
+				<Value Type="Integer">0</Value>
+			</Key>
+			<Key Name="offset y">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="Typage ext - qwdas">
+			<Key Name="Typage ext language">
+				<Value Type="Integer">12</Value>
+			</Key>
+		</Section>
+		<Section Name="Regex profilegeneral">
+			<Key Name="number of profiles">
+				<Value Type="Integer">1</Value>
+			</Key>
+		</Section>
+		<Section Name="IMDS techonology - imdsv1">
+			<Key Name="Multi output format">
+				<Value Type="Integer">1064960</Value>
+			</Key>
+			<Key Name="Demat dictionary">
+				<Value Type="String">apuiinfo\Dictionaries\dict_English_128758_French_1714.dawg</Value>
+			</Key>
+			<Key Name="Use detection type">
+				<Value Type="Integer">2</Value>
+			</Key>
+			<Key Name="Character format">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="Dossier firb structure">
+			<Key Name="Pieces count">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="Dossier fitr structure">
+			<Key Name="Pieces count">
+				<Value Type="Integer">0</Value>
+			</Key>
+		</Section>
+		<Section Name="Dossier fise structure">
+			<Key Name="Item 0 - must be unique">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Item 0 - is mandatory">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Item 0 - doc ext">
+				<Value Type="String">fisu</Value>
+			</Key>
+			<Key Name="Pieces count">
+				<Value Type="Integer">1</Value>
+			</Key>
+		</Section>
+		<Section Name="Dossier fisp structure">
+			<Key Name="Item 0 - must be unique">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Item 0 - is mandatory">
+				<Value Type="Boolean">no</Value>
+			</Key>
+			<Key Name="Item 0 - doc ext">
+				<Value Type="String">fisu</Value>
+			</Key>
+			<Key Name="Pieces count">
+				<Value Type="Integer">1</Value>
+			</Key>
+		</Section>
+	</Parameters>
+</ADDOC>

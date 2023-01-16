@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<?xml-stylesheet type="text/xml" href="\apuisoft\StyleSheets\ini.xsl"?>
+<?xml-stylesheet type="text/xsl" href="\apuisoft\StyleSheets\ini.xsl"?>
+<ADDOC Product="IIM" Version="3.3.0 Beta(Build 14.6.x) - 14 Dec. 2022" Host="STATION-MTL-72" User="PGHAZAL">
+	<!--Creation date: 11/01/2023 13:43:25-->
+	<Parameters Name="apuifina_versioning.xml" FileType="ini" FormatVersion="1.1">
+	</Parameters>
+</ADDOC>
